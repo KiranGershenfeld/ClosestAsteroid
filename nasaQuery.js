@@ -19,9 +19,6 @@ async function generateDates()
   yearFromToday = yearFromToday.toISOString().substring(0,10)
 
 }
-//Get date for tomorrow
-
-//var api_key = "KJiRJ4YNyuuOfEhDLqHJ5FLJe2FKBhrXPf4pSZTi"
 
 var queryData = function(url)
 {
